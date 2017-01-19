@@ -20,6 +20,9 @@ p {
     font-variant: small-caps;
 }
 
+.project {
+     display: none;
+}
 .project p {
     font-variant: small-caps;
 }
